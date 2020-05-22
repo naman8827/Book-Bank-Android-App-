@@ -2,4 +2,8 @@
     <string name="app_name">Project</string>
     <string name="button">button</string>
     <string name="Toast">Toast</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="img">book_bank</string>
+    <string name="text">Book Bank</string>
 </resources>
